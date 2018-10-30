@@ -1,4 +1,5 @@
-﻿#include<stdio.h>
+//Hello from David
+#include<stdio.h>
 #include<math.h>
 #define n 5
 void bul(int array[n][n]);
